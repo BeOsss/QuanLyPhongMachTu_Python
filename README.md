@@ -13,3 +13,5 @@ Bài tập lớn môn công nghẹ phần mềm,Project quản lý phòng mạch
 ### Flask-SQLalchemy
 
 ### Flask-migrate
+
+### Flask-WTF
