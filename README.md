@@ -1,8 +1,15 @@
 # QuanLyPhongMachTu_Python
+
 Bài tập lớn môn công nghẹ phần mềm,Project quản lý phòng mạch tư
+
 ## Framework:
-### Python_Flask
+
+### Python-Flask
+
 ###
-## Lib: 
+
+## Lib:
+
 ### Flask-SQLalchemy
+
 ### Flask-migrate
